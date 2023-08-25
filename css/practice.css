@@ -1,0 +1,110 @@
+/* .external {
+  background-color: brown;
+} */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* .header {
+  height: 400px;
+  background-image: url(../images/images.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.title {
+  color: cornflowerblue;
+}
+
+.heading {
+  color: darksalmon;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+.title2 {
+  color: darkcyan;
+}
+
+.heading2 {
+  color: darkslategrey;
+}
+
+.blog {
+  background-color: burlywood;
+  border: 3px solid tomato;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 8px 8px 6px grey;
+}
+
+li {
+  color: peru;
+}
+
+.top {
+  color: burlywood;
+}
+
+#para {
+  background-color: darkcyan;
+  padding: 10px;
+  border: 3px solid tomato;
+  border-radius: 7px;
+  text-align: justify;
+}
+
+.white {
+  color: white;
+} */
+
+.container {
+  padding-left: 140px;
+  padding-right: 140px;
+}
+
+.img {
+  width: 400px;
+  height: 350px;
+  border: 1px solid grey;
+  margin: 7px;
+  border-radius: 6px;
+}
+
+.color {
+  color: chocolate;
+  font-size: 17px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.paragraph {
+  background-color: burlywood;
+  color: white;
+  border: 5px solid gray;
+  box-shadow: 4px 3px 6px tomato;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.overflow {
+  background-color: aquamarine;
+  border: 3px solid green;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  overflow: visible;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
